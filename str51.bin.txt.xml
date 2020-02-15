@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDataStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataStruct>
+    <counter>0</counter>
+    <JPNText>うぅ～ん…</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>1</counter>
+    <JPNText>何を唸ってるんだよ</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>2</counter>
+    <JPNText>寝れなくて困ってるのよ</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>3</counter>
+    <JPNText>ねぇ、購買部には枕って</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>3</counter>
+    <JPNText>ねぇ、購買部には枕って</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>4</counter>
+    <JPNText>ハァ？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>4</counter>
+    <JPNText>ハァ？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>5</counter>
+    <JPNText>あらそう？　とにかく、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>5</counter>
+    <JPNText>あらそう？　とにかく、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>6</counter>
+    <JPNText>これがウワサの、ワガママか…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>7</counter>
+    <JPNText>あぁんもう！　こんなことなら</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>7</counter>
+    <JPNText>あぁんもう！　こんなことなら</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>8</counter>
+    <JPNText>頭の形が悪くなっちゃうわよ、全く…</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>9</counter>
+    <JPNText>それで購買部に探しに来たのか</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>10</counter>
+    <JPNText>そうなのよ。あんたはどんな枕で寝てるの？</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes>$e3</Notes>
+  </DataStruct>
+  <DataStruct>
+    <counter>11</counter>
+    <JPNText>そうじゃないでしょ、わかってないわね</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>12</counter>
+    <JPNText>わかるはずないだろ</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>13</counter>
+    <JPNText>いい？　枕は健康のもと！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>14</counter>
+    <JPNText>ちなみに私のはね、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>14</counter>
+    <JPNText>ちなみに私のはね、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>15</counter>
+    <JPNText>枕ひとつに、そこまでするか！？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>16</counter>
+    <JPNText>そもそも名人クラスのキコリでないと、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>16</counter>
+    <JPNText>そもそも名人クラスのキコリでないと、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>17</counter>
+    <JPNText>次に切り口が違うわ</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>18</counter>
+    <JPNText>木のしなやかさと堅さが</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>18</counter>
+    <JPNText>木のしなやかさと堅さが</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>19</counter>
+    <JPNText>どう、わかったかしら？</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>20</counter>
+    <JPNText>ああ、わかったぜ…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>20</counter>
+    <JPNText>ああ、わかったぜ…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>21</counter>
+    <JPNText>な、なによ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>21</counter>
+    <JPNText>な、なによ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>22</counter>
+    <JPNText>自分で探すから、もういいわよっ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>23</counter>
+    <JPNText>あら、あたしと同じね</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>24</counter>
+    <JPNText>やっぱり大きくて硬い枕に限るわよね！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>24</counter>
+    <JPNText>やっぱり大きくて硬い枕に限るわよね！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>25</counter>
+    <JPNText>俺の場合、単に硬い枕しか</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>25</counter>
+    <JPNText>俺の場合、単に硬い枕しか</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>26</counter>
+    <JPNText>なんで？</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>27</counter>
+    <JPNText>俺の育ったレスト聖会には、</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>27</counter>
+    <JPNText>俺の育ったレスト聖会には、</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>28</counter>
+    <JPNText>ま、しょうがないわね。王宮には</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>28</counter>
+    <JPNText>ま、しょうがないわね。王宮には</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>29</counter>
+    <JPNText>物事を正しく判断するためには、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>29</counter>
+    <JPNText>物事を正しく判断するためには、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>30</counter>
+    <JPNText>父上が常にいっていたわ</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>31</counter>
+    <JPNText>そういうのは無駄っていうんだ</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>32</counter>
+    <JPNText>なに言ってるのよ</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>33</counter>
+    <JPNText>あぁ～あ、ウルガルド魔法学院には、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>33</counter>
+    <JPNText>あぁ～あ、ウルガルド魔法学院には、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>34</counter>
+    <JPNText>沢山の出来事があると思ったのになぁ～</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>35</counter>
+    <JPNText>なんだ、それ…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>36</counter>
+    <JPNText>じゃあ、あんたはこの学院の生活って</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>36</counter>
+    <JPNText>じゃあ、あんたはこの学院の生活って</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>37</counter>
+    <JPNText>なんだか面倒な感じよね</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>38</counter>
+    <JPNText>しょうがないだろ。規則だの序列だの、</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>38</counter>
+    <JPNText>しょうがないだろ。規則だの序列だの、</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>39</counter>
+    <JPNText>わかったわ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>39</counter>
+    <JPNText>わかったわ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>40</counter>
+    <JPNText>どうするんだよ</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>41</counter>
+    <JPNText>まずは手下が必要ね</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>42</counter>
+    <JPNText>レフィ、あんたを栄えあるイナルナ党の、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>42</counter>
+    <JPNText>レフィ、あんたを栄えあるイナルナ党の、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>43</counter>
+    <JPNText>なんだよ、イナルナ党って…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>43</counter>
+    <JPNText>なんだよ、イナルナ党って…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>44</counter>
+    <JPNText>ちょっと待ちなさいよ、レフィ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>45</counter>
+    <JPNText>ど、どこ行くのよ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>45</counter>
+    <JPNText>ど、どこ行くのよ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>46</counter>
+    <JPNText>そうみたいね…なんだか皆、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>46</counter>
+    <JPNText>そうみたいね…なんだか皆、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>47</counter>
+    <JPNText>お前がのんきなだけだ</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>48</counter>
+    <JPNText>そうかしら、同じような年齢と能力を</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>48</counter>
+    <JPNText>そうかしら、同じような年齢と能力を</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>49</counter>
+    <JPNText>こんなの初めてよ。</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>49</counter>
+    <JPNText>こんなの初めてよ。</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>50</counter>
+    <JPNText>ふぅ～ん。</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>50</counter>
+    <JPNText>ふぅ～ん。</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>51</counter>
+    <JPNText>な、なにいってんのよ、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>51</counter>
+    <JPNText>な、なにいってんのよ、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>52</counter>
+    <JPNText>素直じゃねぇなぁ…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>53</counter>
+    <JPNText>さ、さあ！　行くわよっ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>53</counter>
+    <JPNText>さ、さあ！　行くわよっ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>54</counter>
+    <JPNText>何処行くんだよ？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>55</counter>
+    <JPNText>保健室よ、きっと枕があるはずだわ！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>56</counter>
+    <JPNText>どうだ？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>57</counter>
+    <JPNText>まあまあってとこかしら</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>58</counter>
+    <JPNText>王宮から枕が送られてくるまでは、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>58</counter>
+    <JPNText>王宮から枕が送られてくるまでは、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>59</counter>
+    <JPNText>…どんだけだよ</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>60</counter>
+    <JPNText>すぅ～、すぅ～</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>61</counter>
+    <JPNText>ん…？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>62</counter>
+    <JPNText>すぅ～、すぅ～</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>63</counter>
+    <JPNText>…寝てやがる</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>64</counter>
+    <JPNText>うぅ～ん</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>65</counter>
+    <JPNText>お、おい！</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>66</counter>
+    <JPNText>こいつ、王宮では抱き枕でも使ってたのか？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>66</counter>
+    <JPNText>こいつ、王宮では抱き枕でも使ってたのか？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>67</counter>
+    <JPNText>きゃーー！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>68</counter>
+    <JPNText>あ、あんた、あたしを襲いにきたわけ！？</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>69</counter>
+    <JPNText>そんなわけねーだろボケっ！</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>69</counter>
+    <JPNText>そんなわけねーだろボケっ！</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>70</counter>
+    <JPNText>そ、そうなの？</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>71</counter>
+    <JPNText>そうだよ！</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>72</counter>
+    <JPNText>と、とりあえず今日のことは</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>72</counter>
+    <JPNText>と、とりあえず今日のことは</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>73</counter>
+    <JPNText>これは命令だからね！</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>74</counter>
+    <JPNText>あ、おいどこ行くんだ</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>75</counter>
+    <JPNText>もう疲れたし枕持って部屋に</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>75</counter>
+    <JPNText>もう疲れたし枕持って部屋に</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>76</counter>
+    <JPNText>絶対誰にも言うなって…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>76</counter>
+    <JPNText>絶対誰にも言うなって…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>77</counter>
+    <JPNText>お姫様が無断で保健室の枕を</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>77</counter>
+    <JPNText>お姫様が無断で保健室の枕を</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+</ArrayOfDataStruct>
