@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDataStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataStruct>
+    <counter>0</counter>
+    <JPNText>長きにわたる戦いに、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>0</counter>
+    <JPNText>長きにわたる戦いに、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>1</counter>
+    <JPNText>この戦いで多くの人が傷つき、涙し…</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>1</counter>
+    <JPNText>この戦いで多くの人が傷つき、涙し…</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>2</counter>
+    <JPNText>けれど、私たちは歩みを止めてはなりません</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>3</counter>
+    <JPNText>素敵ですねぇ、女王陛下…</JPNText>
+    <TransText />
+    <SpeakerName>エルル</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>4</counter>
+    <JPNText>色んなことがあったからな…</JPNText>
+    <TransText />
+    <SpeakerName>アシュレイ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>4</counter>
+    <JPNText>色んなことがあったからな…</JPNText>
+    <TransText />
+    <SpeakerName>アシュレイ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>5</counter>
+    <JPNText>刻の審判が来ることは、</JPNText>
+    <TransText />
+    <SpeakerName>ユウ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>5</counter>
+    <JPNText>刻の審判が来ることは、</JPNText>
+    <TransText />
+    <SpeakerName>ユウ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>6</counter>
+    <JPNText>世界は、ようやく刻の呪縛から</JPNText>
+    <TransText />
+    <SpeakerName>アーノギア</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>6</counter>
+    <JPNText>世界は、ようやく刻の呪縛から</JPNText>
+    <TransText />
+    <SpeakerName>アーノギア</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>7</counter>
+    <JPNText>レフィが救った世界、だな…</JPNText>
+    <TransText />
+    <SpeakerName>グレン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>8</counter>
+    <JPNText>ああ。全て、レフィのおかげだ…</JPNText>
+    <TransText />
+    <SpeakerName>ディーノ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>9</counter>
+    <JPNText>ふひひ…皆さん、元気そうっすねー</JPNText>
+    <TransText />
+    <SpeakerName>ライラ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>10</counter>
+    <JPNText>！　ライラ師匠！？</JPNText>
+    <TransText />
+    <SpeakerName>ユウ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>11</counter>
+    <JPNText>なによ、王宮のアイテムでも盗みにきたの？</JPNText>
+    <TransText />
+    <SpeakerName>サラ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>12</counter>
+    <JPNText>えっ…？　ま、まさか…ちゃあんと、</JPNText>
+    <TransText />
+    <SpeakerName>ライラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>12</counter>
+    <JPNText>えっ…？　ま、まさか…ちゃあんと、</JPNText>
+    <TransText />
+    <SpeakerName>ライラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>13</counter>
+    <JPNText>まあ、めでたい日なのじゃ。</JPNText>
+    <TransText />
+    <SpeakerName>キリカ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>13</counter>
+    <JPNText>まあ、めでたい日なのじゃ。</JPNText>
+    <TransText />
+    <SpeakerName>キリカ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>14</counter>
+    <JPNText>あんたが言うなよ…</JPNText>
+    <TransText />
+    <SpeakerName>サラ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>15</counter>
+    <JPNText>師匠！　お久しぶりだみょ！</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>16</counter>
+    <JPNText>およよ、ボナパルトさん！</JPNText>
+    <TransText />
+    <SpeakerName>ライラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>16</counter>
+    <JPNText>およよ、ボナパルトさん！</JPNText>
+    <TransText />
+    <SpeakerName>ライラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>17</counter>
+    <JPNText>今やすっかり、</JPNText>
+    <TransText />
+    <SpeakerName>ハイネ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>17</counter>
+    <JPNText>今やすっかり、</JPNText>
+    <TransText />
+    <SpeakerName>ハイネ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>18</counter>
+    <JPNText>違うみょ！</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>18</counter>
+    <JPNText>違うみょ！</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>19</counter>
+    <JPNText>掃除係の教官だけどね</JPNText>
+    <TransText />
+    <SpeakerName>フラン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>20</counter>
+    <JPNText>そ、それは言わない約束ですみょお…</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>21</counter>
+    <JPNText>フェリシアと人間が、</JPNText>
+    <TransText />
+    <SpeakerName>アシュレイ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>21</counter>
+    <JPNText>フェリシアと人間が、</JPNText>
+    <TransText />
+    <SpeakerName>アシュレイ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>22</counter>
+    <JPNText>そう…世界は変わったのよ。</JPNText>
+    <TransText />
+    <SpeakerName>フラン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>22</counter>
+    <JPNText>そう…世界は変わったのよ。</JPNText>
+    <TransText />
+    <SpeakerName>フラン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>23</counter>
+    <JPNText>うん…</JPNText>
+    <TransText />
+    <SpeakerName>サラ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>24</counter>
+    <JPNText>そういえば今日、シオンちゃん来てないね…</JPNText>
+    <TransText />
+    <SpeakerName>エルル</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>25</counter>
+    <JPNText>海外公演が終わったら駆けつけるって、</JPNText>
+    <TransText />
+    <SpeakerName>サラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>25</counter>
+    <JPNText>海外公演が終わったら駆けつけるって、</JPNText>
+    <TransText />
+    <SpeakerName>サラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>26</counter>
+    <JPNText>フフフ…それなら我輩が、</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>26</counter>
+    <JPNText>フフフ…それなら我輩が、</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>27</counter>
+    <JPNText>ええ～？　なになに？</JPNText>
+    <TransText />
+    <SpeakerName>エルル</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>28</counter>
+    <JPNText>みょみょおーん！</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>29</counter>
+    <JPNText>我らが天使系アイドル、シオンたんの</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>29</counter>
+    <JPNText>我らが天使系アイドル、シオンたんの</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>30</counter>
+    <JPNText>わあ！　これ今、どこも売り切れで</JPNText>
+    <TransText />
+    <SpeakerName>ハイネ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>30</counter>
+    <JPNText>わあ！　これ今、どこも売り切れで</JPNText>
+    <TransText />
+    <SpeakerName>ハイネ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>31</counter>
+    <JPNText>フフフ…我輩に感謝するみょ！</JPNText>
+    <TransText />
+    <SpeakerName>ボナパルト</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>32</counter>
+    <JPNText>こ、これはスゴイっす！</JPNText>
+    <TransText />
+    <SpeakerName>ライラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>32</counter>
+    <JPNText>こ、これはスゴイっす！</JPNText>
+    <TransText />
+    <SpeakerName>ライラ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>33</counter>
+    <JPNText>な、なかなかやるわねシオン…</JPNText>
+    <TransText />
+    <SpeakerName>フラン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>34</counter>
+    <JPNText>う、うぅぅ…は、鼻血が…</JPNText>
+    <TransText />
+    <SpeakerName>ハイネ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>35</counter>
+    <JPNText>シオンちゃん、ほんとにキレイ…</JPNText>
+    <TransText />
+    <SpeakerName>エルル</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>35</counter>
+    <JPNText>シオンちゃん、ほんとにキレイ…</JPNText>
+    <TransText />
+    <SpeakerName>エルル</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>36</counter>
+    <JPNText>あれほど天使に憧れていたシオンが、</JPNText>
+    <TransText />
+    <SpeakerName>アシュレイ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>36</counter>
+    <JPNText>あれほど天使に憧れていたシオンが、</JPNText>
+    <TransText />
+    <SpeakerName>アシュレイ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>37</counter>
+    <JPNText>うん…あたしの、自慢のお姉ちゃんだよ…！</JPNText>
+    <TransText />
+    <SpeakerName>サラ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>38</counter>
+    <JPNText>わたくしは、ここに宣言いたします</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>39</counter>
+    <JPNText>散っていった人々の想いを胸に、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>39</counter>
+    <JPNText>散っていった人々の想いを胸に、</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>40</counter>
+    <JPNText>新生バルディア王国、女王…</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>40</counter>
+    <JPNText>新生バルディア王国、女王…</JPNText>
+    <TransText />
+    <SpeakerName>イナルナ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>41</counter>
+    <JPNText>観てくれてますか、レフィさん…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>42</counter>
+    <JPNText>この衣装、マギになった私と</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>42</counter>
+    <JPNText>この衣装、マギになった私と</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>43</counter>
+    <JPNText>今度の天使役が決まって、</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>43</counter>
+    <JPNText>今度の天使役が決まって、</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>44</counter>
+    <JPNText>お願いしたんです…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>45</counter>
+    <JPNText>見つめよ瞳、開けよ扉！</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>46</counter>
+    <JPNText>レフィさん、覚えてますか…？</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>46</counter>
+    <JPNText>レフィさん、覚えてますか…？</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>47</counter>
+    <JPNText>ふふ、あの時は大変でしたよね…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>48</counter>
+    <JPNText>刻の流れに潮は満ち…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>49</counter>
+    <JPNText>降る月明かりに抗いて…</JPNText>
+    <TransText />
+    <SpeakerName>？？？</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>50</counter>
+    <JPNText>…！？</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>51</counter>
+    <JPNText>さざめきは明滅の扉を開く…だったか？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>52</counter>
+    <JPNText>レ、レフィさん…！</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>53</counter>
+    <JPNText>必ずここだと思ったよ。おかえり、シオン…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>54</counter>
+    <JPNText>レフィさん…！</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>55</counter>
+    <JPNText>どうして、ここだとわかったんですか？</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>56</counter>
+    <JPNText>だってここは、俺たちの</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>56</counter>
+    <JPNText>だってここは、俺たちの</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>57</counter>
+    <JPNText>ふふ、そうですね…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>58</counter>
+    <JPNText>でもここは私にとって、</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>58</counter>
+    <JPNText>でもここは私にとって、</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>59</counter>
+    <JPNText>もうひとつの思い出…？</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>60</counter>
+    <JPNText>この時代に飛ばされてきた時に…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>60</counter>
+    <JPNText>この時代に飛ばされてきた時に…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>61</counter>
+    <JPNText>ああ、そうだったな…</JPNText>
+    <TransText />
+    <SpeakerName>レフィ</SpeakerName>
+    <IsNewLine>false</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>62</counter>
+    <JPNText>私、この時代に来れて良かった…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+  <DataStruct>
+    <counter>62</counter>
+    <JPNText>私、この時代に来れて良かった…</JPNText>
+    <TransText />
+    <SpeakerName>シオン</SpeakerName>
+    <IsNewLine>true</IsNewLine>
+    <Notes />
+  </DataStruct>
+</ArrayOfDataStruct>
