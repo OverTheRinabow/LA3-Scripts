@@ -1,0 +1,39 @@
+=================================
+Luminous Arc 3 Tools v 0.37
+=================================
+
+-------------
+ Changelog
+-------------
+v0.37
+- removed whitespaces at the end of file, txt is now stream-friendly
+- added that info to the textheader, code cleanup
+
+v0.35
+- added textheader (stores more or less important info from input binaries) 
+- added batch-conversion directories pack (to work with big amount of files)
+- added command line support for every script tools (it's backward compatible):
+  Usage:
+          "tool_name".exe <inputFile> <outputFile>
+
+v0.31
+- improved and simplified recognizing amount of pointers for strTabGen.exe
+
+v0.3
+- str0.bin, strsel.bin, strana.bin files supported
+- fixed recognizing pointers
+
+v0.2
+ - fixed font size in fontgenerator (gap removed)
+
+
+Credits:
+- plasturion
+
+Special Thanks for:
+- LuminousCat for idea, testing and motivation
+- Minecrafter for some useful tips
+- Lon0z for the prediction skills (first bug)
+- and all of the rest involved in the project ;)
+
+Cheers!
