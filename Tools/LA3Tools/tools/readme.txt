@@ -1,5 +1,5 @@
 ===============================================================
-  Luminous Arc 3 Script Tools for character-pair font (v0.37)
+  Luminous Arc 3 Script Tools for character-pair font (v0.43)
 ===============================================================
 
 Usage:
@@ -14,6 +14,32 @@ dumper.exe - text extractor
 - run dumper.exe
 - text should be extracted to new created "outOrg.txt" 
 
+
+========= optional add-ons tools ============
+
+  --------------------
+  ext2edit.exe - script files converter
+  --------------------
+  - place "outOrg.txt" in this folder
+  - run ext2edit.exe
+  - new file "forEdit.txt" is here - easy for editing (without $n and $p)
+
+  --------------------
+  formatter.exe - converts to "str" format lines
+  --------------------
+  - run "formatter.exe" ( it'll look for "forEdit.txt" )
+  - auto-formatting for multiple text lines in one entry is now provided 
+  - "inT.txt" created
+  
+  --------------------
+  formDebug.exe - converts to "str" format lines (with debug mode)
+  --------------------
+  - make the same steps like in formatter.exe
+  - "inT.txt" created (with filenames and structure/pointer's number
+    in all of the the dialog box captions - for identy reasons)
+	
+=============================================
+
 ------------------
 encoder.exe - character-pair font encoder
 ------------------
@@ -27,6 +53,8 @@ strTabGen.exe - string table generator
 - place "inTencoded.txt"
 - run strTabGen.exe
 - "strout.bin" will be created, replace in Tinke and check results.
+
+------------------------------------------------------------------------------
 
 -------
 Tips
@@ -58,10 +86,17 @@ Notes
   strsel.bin, strsana.bin (selection files) differ a bit:
   - first string is empty
   - second string sometimes contain symbol "-" 
+  - you can place only 34 characters in the second string of the strsel.bin structure
 
   first line of extracted file *.txt is a textheader (16 bytes)
-  
-	
+
+  few words about new optional tools for script edit:
+
+  - lines in "forEdit.txt" shows size-limits of the first and second string
+  - to type many lines in one entry and clear a box before the first newline ($n) and
+    to continue typing ("text $p text text $p" sequence) put "$p" at the end of line.	
+  - "~-" indicate end of the single entry (double string structure).
+
 Available default font for character-pairs (80 characters) :
 
  !"#%&'()*+,-./:=?0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
@@ -69,6 +104,26 @@ Available default font for character-pairs (80 characters) :
 -------------
 changelog
 -------------
+v0.43
+- another small improvement for the ext2edit tool (34-characters line showing 
+  size limit for the single entry/option of the selection file - strsel)
+
+v0.42
+- updated ext2edit tool - added structure/pointer numbering as a comment and shape 
+  of the caption box line for easier reference and to work with debug mode 
+
+v0.41
+- improved ext2edit tool - short lines (32 characters) for the line size limit 
+  of the dialog boxes with small portrait icon (all appearances)
+
+v0.40
+- added new tool - formatter with debug mode - shows filename and number 
+  of the structure/pointer in the dialog box caption (instead of chara's name) 
+
+v0.39
+- added new optional tools for easy editing and auto-formatting ($n, $p)
+- new directories and *.bat files for editors
+
 v0.37
 - removed whitespaces at the end of file, txt is now stream-friendly
 - added that info to the textheader, code cleanup
